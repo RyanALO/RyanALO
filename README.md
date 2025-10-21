@@ -1,13 +1,9 @@
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8BWhat's+Up%3F" alt="Typing SVG" /></a>
-</p>
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=200&section=header&reversal=true&text=Ryan%20Augusto%20de%20Oliveira&fontSize=25&fontColor=999&fontAlign=80&fontAlignY=59&stroke=-&strokeWidth=0&animation=blink&desc=Backend%20/%20frontend%20%20Developer&descSize=20&descAlign=78.6&descAlignY=71&textBg=false&theme=tokyonight"  />
-
-
-  
 </div>
 
 ###
@@ -66,5 +62,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurodesouz&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
