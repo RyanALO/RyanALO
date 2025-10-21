@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">👨🏻‍💻  About Me<br>As a developer, one of my goals is to become proficient and contribute significantly to projects. I want to take on technical challenges and learn from each experience to constantly improve.</h4>
+<h4 align="left">👨🏻‍💻 Curioso por sistemas que escalam e interfaces que não travam. Trabalho com React e Python, entre o backend sólido e o frontend polido.</h4>
 
 ###
 
@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG95cDRodTh6em44ejIyZWI4azNudHQyZ3ozc2g1MHp5NTY5YzZ5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AWqRqyyLYhZxS/giphy.gif"  />
+  <img height="200" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG95cDRodTh6em44ejIyZWI4azNudHQyZ3ozc2g1MHp5NTY5YzZ5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AWqRqyyLYhZxS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnZtMmVuaTdqZjJlcWhzMHNmcnJrYXE5bGk5MTg2aHowODRyZzhoMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYMsj2LcXzfcTP5ii/giphy.gif)"  />
 </div>
 
 ###
