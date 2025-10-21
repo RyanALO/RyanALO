@@ -4,7 +4,10 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=200&section=header&reversal=true&text=Ryan%20Augusto%20de%20Oliveira&fontSize=25&fontColor=999&fontAlign=80&fontAlignY=59&stroke=-&strokeWidth=0&animation=blink&desc=Backend%20/%20frontend%20%20Developer&descSize=20&descAlign=78.6&descAlignY=71&textBg=false&theme=tokyonight"  />
-  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  
 </div>
 
 ###
