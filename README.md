@@ -2,7 +2,6 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8BWhat's+Up%3F" alt="Typing SVG" /></a>
 </p>
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=200&section=header&reversal=true&text=Ryan%20Augusto%20de%20Oliveira&fontSize=25&fontColor=999&fontAlign=80&fontAlignY=59&stroke=-&strokeWidth=0&animation=blink&desc=Backend%20/%20frontend%20%20Developer&descSize=20&descAlign=78.6&descAlignY=71&textBg=false&theme=tokyonight"  />
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
