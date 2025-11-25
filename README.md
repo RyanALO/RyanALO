@@ -46,5 +46,9 @@
 <br />
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RyanAugustoDeOliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanAugustoDeOliveira&radius=16&theme=tokyo-night&area=true&order=5" width="100%" alt="activity-graph" />
 </div>
