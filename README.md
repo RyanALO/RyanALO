@@ -11,8 +11,7 @@
 <br />
 
 <h4 align="center">
-  👨🏻‍💻 Curioso por sistemas que escalam e interfaces que não travam. <br/>
-  Trabalho com <b>React</b> e <b>Python</b>, entre o backend sólido e o frontend polido.
+  Fullstack Developer | TypeScript, Python & C# Enthusiast
 </h4>
 
 <br />
@@ -46,9 +45,23 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RyanAugustoDeOliveira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
+<br />
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanALO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanALO&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<br />
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanAugustoDeOliveira&radius=16&theme=tokyo-night&area=true&order=5" width="100%" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanALO&radius=16&theme=tokyo-night&area=true&order=5" width="100%" alt="activity-graph" />
 </div>
